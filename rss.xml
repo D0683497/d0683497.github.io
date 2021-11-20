@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://d0683497.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>K139</title>
+    <link>https://d0683497.github.io/</link>
+    <description>記錄一些有趣的東西</description>
+    <language>en-US</language>
+    <pubDate>Sat, 20 Nov 2021 19:41:45 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Nov 2021 19:41:45 GMT</lastBuildDate>
+    <generator>@mr-hope/vuepress-plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <copyright>Copyright by D0683497</copyright>
+    <category>HackerSir</category>
+    <item>
+      <title>Home</title>
+      <link>https://d0683497.github.io/Blog/</link>
+      <guid>https://d0683497.github.io/Blog/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Home</source>
+      <pubDate>Sat, 20 Nov 2021 19:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flask 社課 - Bootstrap</title>
+      <link>https://d0683497.github.io/HackerSir/Flask/Bootstrap/</link>
+      <guid>https://d0683497.github.io/HackerSir/Flask/Bootstrap/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Flask 社課 - Bootstrap</source>
+      <description>逢甲大學 黑客社 第六屆 Flask - Bootstrap 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Flask 社課 - 總結</title>
+      <link>https://d0683497.github.io/HackerSir/Flask/Conclusion/</link>
+      <guid>https://d0683497.github.io/HackerSir/Flask/Conclusion/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Flask 社課 - 總結</source>
+      <description>逢甲大學 黑客社 第六屆 Flask - 總結 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Thu, 09 May 2019 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Flask 社課 - 介紹</title>
+      <link>https://d0683497.github.io/HackerSir/Flask/Introduction/</link>
+      <guid>https://d0683497.github.io/HackerSir/Flask/Introduction/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Flask 社課 - 介紹</source>
+      <description>逢甲大學 黑客社 第六屆 Flask - 介紹 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Flask 社課 - Form</title>
+      <link>https://d0683497.github.io/HackerSir/Flask/Form/</link>
+      <guid>https://d0683497.github.io/HackerSir/Flask/Form/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Flask 社課 - Form</source>
+      <description>逢甲大學 黑客社 第六屆 Flask - Form 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Flask 社課 - 佈署</title>
+      <link>https://d0683497.github.io/HackerSir/Flask/Deployment/</link>
+      <guid>https://d0683497.github.io/HackerSir/Flask/Deployment/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Flask 社課 - 佈署</source>
+      <description>逢甲大學 黑客社 第六屆 Flask - 佈署 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Thu, 09 May 2019 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Flask 社課 - 基礎</title>
+      <link>https://d0683497.github.io/HackerSir/Flask/Overview/</link>
+      <guid>https://d0683497.github.io/HackerSir/Flask/Overview/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Flask 社課 - 基礎</source>
+      <description>逢甲大學 黑客社 第六屆 Flask - 基礎 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>https://d0683497.github.io/HackerSir/Flask/</link>
+      <guid>https://d0683497.github.io/HackerSir/Flask/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Home</source>
+      <pubDate>Sat, 20 Nov 2021 19:35:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="flask-社課"> Flask 社課</h1>
+<p><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /></p>
+<h2 id="課程"> 課程</h2>
+<ul>
+<li><a href="/HackerSir/Flask/Introduction.html">介紹</a></li>
+<li><a href="/HackerSir/Flask/Overview.html">基礎</a></li>
+<li><a href="/HackerSir/Flask/Bootstrap.html">Bootstrap</a></li>
+<li><a href="/HackerSir/Flask/Form.html">Form</a></li>
+<li><a href="/HackerSir/Flask/Models.html">Models</a></li>
+<li><a href="/HackerSir/Flask/Conclusion.html">總結</a></li>
+<li><a href="/HackerSir/Flask/Deployment.html">佈署</a></li>
+</ul>
+<h2 id="開源專案"> 開源專案</h2>
+<p><a href="https://github.com/D0683497/flask-hackersir" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true" alt="flask-hackersir" /></a></p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" type="image/"/>
+    </item>
+    <item>
+      <title>Python 社課 - 總結</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Conclusion/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Conclusion/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 總結</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 總結 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Flask 社課 - Models</title>
+      <link>https://d0683497.github.io/HackerSir/Flask/Models/</link>
+      <guid>https://d0683497.github.io/HackerSir/Flask/Models/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Flask 社課 - Models</source>
+      <description>逢甲大學 黑客社 第六屆 Flask - Models 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 環境建置</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Environment/Legacy/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Environment/Legacy/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 環境建置</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 環境建置 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 環境建置 - Mac 版</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Environment/Mac/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Environment/Mac/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 環境建置 - Mac 版</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 環境建置 - Mac 版 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 簡介</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Introduction/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Introduction/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 簡介</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 簡介 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 環境建置 - Windows 版</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Environment/Windows/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Environment/Windows/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 環境建置 - Windows 版</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 環境建置 - Windows 版 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - Regular Expression - 舊版</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Regular-Expression/Legacy/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Regular-Expression/Legacy/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - Regular Expression - 舊版</source>
+      <description>逢甲大學 黑客社 第六屆 Python - Regular Expression - 舊版 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>https://d0683497.github.io/HackerSir/Python/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Home</source>
+      <pubDate>Sat, 20 Nov 2021 19:35:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="python-社課"> Python 社課</h1>
+<p><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" /></p>
+<h2 id="新生茶會"> 新生茶會</h2>
+<p><a href="/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.html">用漏洞掌控未來</a></p>
+<h2 id="課程"> 課程</h2>
+<ul>
+<li><a href="/HackerSir/Python/Introduction.html">簡介</a></li>
+<li>環境建置
+<ul>
+<li><a href="/HackerSir/Python/Environment/Legacy.html">舊版</a></li>
+<li><a href="/HackerSir/Python/Environment/Windows.html">Windows 版</a></li>
+<li><a href="/HackerSir/Python/Environment/Mac.html">Mac 版</a></li>
+</ul>
+</li>
+<li>Python 教學
+<ul>
+<li><a href="/HackerSir/Python/Tutorial/Overview.html">基礎</a></li>
+<li><a href="/HackerSir/Python/Tutorial/Example.html">範例</a></li>
+<li><a href="/HackerSir/Python/Tutorial/Review.html">複習</a></li>
+</ul>
+</li>
+<li>Visual Studio Code 安裝
+<ul>
+<li><a href="/HackerSir/Python/Visual-Studio-Code-Install/Windows.html">Windows 版</a></li>
+<li><a href="/HackerSir/Python/Visual-Studio-Code-Install/Mac.html">Mac 版</a></li>
+</ul>
+</li>
+<li>網頁簡介
+<ul>
+<li><a href="/HackerSir/Python/Web-Tutorial/HTML.html">HTML</a></li>
+<li><a href="/HackerSir/Python/Web-Tutorial/CSS.html">CSS</a></li>
+</ul>
+</li>
+<li>爬蟲
+<ul>
+<li><a href="/HackerSir/Python/Web-Crawler/First.html">一</a></li>
+<li><a href="/HackerSir/Python/Web-Crawler/Second.html">二</a></li>
+<li><a href="/HackerSir/Python/Web-Crawler/Third.html">三</a></li>
+<li><a href="/HackerSir/Python/Web-Crawler/Fourth.html">四</a></li>
+</ul>
+</li>
+<li>正則表達式
+<ul>
+<li><a href="/HackerSir/Python/Regular-Expression/Legacy.html">舊版</a></li>
+<li><a href="/HackerSir/Python/Regular-Expression/Current.html">新版</a></li>
+</ul>
+</li>
+<li><a href="/HackerSir/Python/Conclusion.html">總結</a></li>
+</ul>
+<h2 id="社員大會"> 社員大會</h2>
+<p><a href="/HackerSir/General-Meeting-of-Club-Members/Report.html">社課報告</a></p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" type="image/"/>
+    </item>
+    <item>
+      <title>Python 社課 - Regular Expression</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Regular-Expression/Current/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Regular-Expression/Current/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - Regular Expression</source>
+      <description>逢甲大學 黑客社 第六屆 Python - Regular Expression 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 範例</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Tutorial/Example/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Tutorial/Example/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 範例</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 範例 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 基礎</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 基礎</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 基礎 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 複習</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Tutorial/Review/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Tutorial/Review/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 複習</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 複習 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 爬蟲一</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Web-Crawler/First/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Web-Crawler/First/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 爬蟲一</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 爬蟲一 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - Visual Studio Code 安裝 - Windows版</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Windows/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Windows/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - Visual Studio Code 安裝 - Windows版</source>
+      <description>逢甲大學 黑客社 第六屆 Python - Visual Studio Code 安裝 - Windows版 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 爬蟲四</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Fourth/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Fourth/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 爬蟲四</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 爬蟲四 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - Visual Studio Code 安裝 - Mac版</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Mac/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Mac/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - Visual Studio Code 安裝 - Mac版</source>
+      <description>逢甲大學 黑客社 第六屆 Python - Visual Studio Code 安裝 - Mac版 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 爬蟲二</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Second/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Second/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 爬蟲二</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 爬蟲二 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - 爬蟲三</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - 爬蟲三</source>
+      <description>逢甲大學 黑客社 第六屆 Python - 爬蟲三 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - CSS</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - CSS</source>
+      <description>逢甲大學 黑客社 第六屆 Python - CSS 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>Python 社課 - HTML</title>
+      <link>https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/</link>
+      <guid>https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Python 社課 - HTML</source>
+      <description>逢甲大學 黑客社 第六屆 Python - HTML 教學簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>黑客社</title>
+      <link>https://d0683497.github.io/HackerSir/</link>
+      <guid>https://d0683497.github.io/HackerSir/</guid>
+      <source url="https://d0683497.github.io/rss.xml">黑客社</source>
+      <pubDate>Sat, 20 Nov 2021 19:35:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="黑客社-第六屆"> 黑客社 第六屆</h1>
+<p><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /></p>
+<h2 id="社課"> 社課</h2>
+<ul>
+<li><a href="/HackerSir/Python">Python</a></li>
+<li><a href="/HackerSir/Flask">Flask</a></li>
+</ul>
+<h2 id="開源專案"> 開源專案</h2>
+<p><a href="https://github.com/D0683497/JoinClub" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=JoinClub&theme=github_dark&show_owner=true" alt="JoinClub" /></a></p>
+<p><a href="https://github.com/D0683497/NID_to_Detail" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=NID_to_Detail&theme=github_dark&show_owner=true" alt="NID_to_Detail" /></a></p>
+<p><a href="https://github.com/D0683497/flask-hackersir" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true" alt="flask-hackersir" /></a></p>
+<h2 id="其他"> 其他</h2>
+<h3 id="新生茶會"> 新生茶會</h3>
+<p><a href="/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.html">用漏洞掌控未來</a></p>
+<h3 id="社員大會"> 社員大會</h3>
+<p><a href="/HackerSir/General-Meeting-of-Club-Members/Report.html">社課報告</a></p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" type="image/"/>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>https://d0683497.github.io/</link>
+      <guid>https://d0683497.github.io/</guid>
+      <source url="https://d0683497.github.io/rss.xml">Home</source>
+      <pubDate>Sat, 20 Nov 2021 19:40:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="hey-there"> Hey there 👋</h1>
+
+<h2 id="skills-tools"> Skills &amp; Tools</h2>
+
+
+<h3 id="programming-languages"> 👨‍💻 Programming languages</h3>
+<p><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/C%23-239120.svg?&logo=csharp&logoColor=white" alt="C#" /></p>
+<h3 id="frameworks-and-libraries"> 🛠 Frameworks and libraries</h3>
+<p><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django" /></p>
+<p><img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/-Vue.js-42B883?logo=vuedotjs&logoColor=white" alt="Vue.js" /></p>
+<p><img src="https://img.shields.io/badge/Bulma-00D1B2.svg?logo=bulma&logoColor=white" alt="Bulma" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /></p>
+<h3 id="software-and-tools"> 💻 Software and tools</h3>
+<p><img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?logo=visualstudio&logoColor=white" alt="Visual Studio" /></p>
+<p><img src="https://img.shields.io/badge/Rider-000000.svg?logo=rider&logoColor=white" alt="Rider" />
+<img src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=white" alt="Rider" /></p>
+<p><img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/-Github-181717?logo=GitHub&logoColor=white" alt="Github" />
+<img src="https://img.shields.io/badge/GitHub Pages-222222.svg?logo=githubpages&logoColor=white" alt="GitHub Pages" /></p>
+<p><img src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" /></p>
+<h2 id="open-source-projects"> Open source projects</h2>
+
+<div align=center>
+    <a href="https://github.com/fcu-ssc/fcu-ucan">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fcu-ssc&repo=fcu-ucan&theme=github_dark&show_owner=true" alt="FCU-UCAN" />
+    </a>
+    <a href="https://github.com/D0683497/Lottery">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=Lottery&theme=github_dark&show_owner=true" alt="Lottery" />
+    </a>
+</div>
+<div align=center>
+    <a href="https://github.com/D0683497/JoinClub">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=JoinClub&theme=github_dark&show_owner=true" alt="JoinClub" />
+    </a>
+    <a href="https://github.com/D0683497/NID_to_Detail">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=NID_to_Detail&theme=github_dark&show_owner=true" alt="NID_to_Detail" />
+    </a>
+</div>
+<h2 id="github-stats"> Github stats</h2>
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=D0683497&theme=react-dark" alt="D0683497's github activity graph" /></p>
+<h3 id="profile-stats"> 🖥 Profile Stats</h3>
+
+<div align=center>
+    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=D0683497&show_icons=true&theme=github_dark" alt="D0683497's GitHub stats" />
+    <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0683497&theme=github_dark&layout=compact" alt="D0683497's Top Langs" />
+</div>
+<h3 id="streak-stats"> 🔥 Streak stats</h3>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=D0683497&theme=react&date_format=[Y/]n/j" alt="GitHub Streak" /></p>
+<h2 id="socials"> 🤝 Socials</h2>
+
+
+<p><a href="https://www.facebook.com/k139215130/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/k139215130/" alt="Facebook Badge" /></a>
+<a href="https://www.instagram.com/k139215130/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge" /></a>
+<a href="mailto:ff129043923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ff129043923@gmail.com" alt="Gmail Badge" /></a>
+<a href="https://github.com/D0683497/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/D0683497/" alt="GitHub Badge" /></a></p>
+
+
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" type="image/"/>
+    </item>
+    <item>
+      <title>新生茶會 - 用漏洞掌控未來</title>
+      <link>https://d0683497.github.io/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug/</link>
+      <guid>https://d0683497.github.io/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug/</guid>
+      <source url="https://d0683497.github.io/rss.xml">新生茶會 - 用漏洞掌控未來</source>
+      <description>逢甲大學 黑客社 第六屆 新生茶會 用漏洞掌控未來 簡報</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>社員大會 - Pyhton 社課報告</title>
+      <link>https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/</link>
+      <guid>https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/</guid>
+      <source url="https://d0683497.github.io/rss.xml">社員大會 - Pyhton 社課報告</source>
+      <description>逢甲大學 黑客社 第六屆 社員大會 Pyhton 社課報告</description>
+      <category>HackerSir</category>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
