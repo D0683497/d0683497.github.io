@@ -1,16 +1,20 @@
 {
   "name": "d0683497",
   "version": "1.0.0",
-  "description": "A project of vuepress-theme-hope",
+  "private": true,
+  "description": "記錄一些有趣的東西",
   "license": "MIT",
   "scripts": {
-    "docs:build": "vuepress build",
-    "docs:clean-dev": "vuepress dev --no-cache",
-    "docs:dev": "vuepress dev",
-    "docs:eject-theme": "vuepress eject-hope"
+    "build": "vuepress build",
+    "clean-dev": "vuepress dev --no-cache",
+    "dev": "vuepress dev",
+    "eject-theme": "vuepress eject-hope"
   },
   "devDependencies": {
     "vuepress": "^1.8.2",
     "vuepress-theme-hope": "^1.21.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.7"
   }
 }

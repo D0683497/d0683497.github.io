@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+            ['學院', '人數', { role: 'annotation' }],
+            ['資訊電機學院', 51, 51],
+            ['工學院', 5, 5],
+            ['理學院', 6, 6],
+            ['金融學院', 4, 4],
+            ['商學院', 0, 0],
+            ['建設學院', 1, 1],
+            ['人文社會學院', 0, 0],
+            ['國際科技與管理學院', 0, 0],
+            ['教職員', 0, 0]
+        ]);
+        var options = { 'title': '10/16 Pyhton社課人數統計' };
+        var chart = new google.visualization.ColumnChart(document.getElementById('chart'));
+        chart.draw(data, options);
+      }
+    </script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        #chart {
+            display: block;
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+  </head>
+  <body>
+    <div id="chart"></div>
+  </body>
+</html>
