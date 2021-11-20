@@ -2,7 +2,7 @@
 home: true
 heroText: 逢甲大學 黑客社
 tagline: 第六屆教學簡報
-heroImage: /HackerSir/Logo.png
+heroImage: /HackerSir/logo.png
 ---
 
 # Python 社課

@@ -12,7 +12,7 @@ backToTop: false
 
 @slidestart
 
-<!-- .slide: data-background="/HackerSir/Logo.png"  data-background-size="650px" -->
+<!-- .slide: data-background="/HackerSir/logo.png"  data-background-size="650px" -->
 
 ---
 
@@ -332,6 +332,6 @@ Linux 基本指令
 
 ---
 
-<!-- .slide: data-background="/HackerSir/Logo.png"  data-background-size="650px" -->
+<!-- .slide: data-background="/HackerSir/logo.png"  data-background-size="650px" -->
 
 @slideend
