@@ -26,6 +26,7 @@ action:
 ## 第四屆
 
 + [正則表達式](/HackerSir/Python/Regular-Expression/Legacy.md)
++ [CTF - 2017](/HackerSir/CTF/2017.md)
 
 ## 第五屆
 
@@ -35,6 +36,8 @@ action:
 + [Flask](/HackerSir/Flask)
 
 ### 其他
+
+[CTF - 2018](/HackerSir/CTF/2018.md)
 
 #### 新生茶會
 
