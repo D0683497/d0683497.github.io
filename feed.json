@@ -9,57 +9,6 @@
   },
   "items": [
     {
-      "title": "Flask 社課 - Bootstrap",
-      "url": "https://d0683497.github.io/HackerSir/Flask/Bootstrap/",
-      "id": "https://d0683497.github.io/HackerSir/Flask/Bootstrap/",
-      "summary": "逢甲大學 黑客社 第六屆 Flask - Bootstrap 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2019-03-26T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
-      "title": "Flask 社課 - 總結",
-      "url": "https://d0683497.github.io/HackerSir/Flask/Conclusion/",
-      "id": "https://d0683497.github.io/HackerSir/Flask/Conclusion/",
-      "summary": "逢甲大學 黑客社 第六屆 Flask - 總結 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2019-05-09T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
-      "title": "Flask 社課 - 佈署",
-      "url": "https://d0683497.github.io/HackerSir/Flask/Deployment/",
-      "id": "https://d0683497.github.io/HackerSir/Flask/Deployment/",
-      "summary": "逢甲大學 黑客社 第六屆 Flask - 佈署 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2019-05-09T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
       "title": "Home",
       "url": "https://d0683497.github.io/Blog/",
       "id": "https://d0683497.github.io/Blog/",
@@ -74,13 +23,13 @@
       "tags": []
     },
     {
-      "title": "Flask 社課 - Form",
-      "url": "https://d0683497.github.io/HackerSir/Flask/Form/",
-      "id": "https://d0683497.github.io/HackerSir/Flask/Form/",
-      "summary": "逢甲大學 黑客社 第六屆 Flask - Form 教學簡報",
+      "title": "CTF - 2017",
+      "url": "https://d0683497.github.io/HackerSir/CTF/2017/",
+      "id": "https://d0683497.github.io/HackerSir/CTF/2017/",
+      "summary": "逢甲大學 黑客社 第四屆 CTF - 2017 簡報",
       "content_html": "<i>Not supported content</i>",
-      "date_published": "2019-04-17T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_published": "2019-05-20T00:00:00.000Z",
+      "date_modified": "2021-11-21T14:03:23.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -91,13 +40,115 @@
       ]
     },
     {
-      "title": "Flask 社課 - 基礎",
-      "url": "https://d0683497.github.io/HackerSir/Flask/Overview/",
-      "id": "https://d0683497.github.io/HackerSir/Flask/Overview/",
-      "summary": "逢甲大學 黑客社 第六屆 Flask - 基礎 教學簡報",
+      "title": "CTF - 2018",
+      "url": "https://d0683497.github.io/HackerSir/CTF/2018/",
+      "id": "https://d0683497.github.io/HackerSir/CTF/2018/",
+      "summary": "逢甲大學 黑客社 第五屆 CTF - 2018 簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2019-05-20T00:00:00.000Z",
+      "date_modified": "2021-11-21T14:03:23.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "幹部訓練 - 自我審視",
+      "url": "https://d0683497.github.io/HackerSir/Club-Cadres-Training/Self-Examination/",
+      "id": "https://d0683497.github.io/HackerSir/Club-Cadres-Training/Self-Examination/",
+      "summary": "逢甲大學 黑客社 第五屆 幹部訓練 - 自我審視 簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2019-01-20T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Flask 社課 - Bootstrap",
+      "url": "https://d0683497.github.io/HackerSir/Flask/Bootstrap/",
+      "id": "https://d0683497.github.io/HackerSir/Flask/Bootstrap/",
+      "summary": "逢甲大學 黑客社 第五屆 Flask - Bootstrap 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2019-03-26T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Flask 社課 - 總結",
+      "url": "https://d0683497.github.io/HackerSir/Flask/Conclusion/",
+      "id": "https://d0683497.github.io/HackerSir/Flask/Conclusion/",
+      "summary": "逢甲大學 黑客社 第五屆 Flask - 總結 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2019-05-09T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Flask 社課 - 介紹",
+      "url": "https://d0683497.github.io/HackerSir/Flask/Introduction/",
+      "id": "https://d0683497.github.io/HackerSir/Flask/Introduction/",
+      "summary": "逢甲大學 黑客社 第五屆 Flask - 介紹 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2019-03-18T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Flask 社課 - 佈署",
+      "url": "https://d0683497.github.io/HackerSir/Flask/Deployment/",
+      "id": "https://d0683497.github.io/HackerSir/Flask/Deployment/",
+      "summary": "逢甲大學 黑客社 第五屆 Flask - 佈署 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2019-05-09T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Flask 社課 - Form",
+      "url": "https://d0683497.github.io/HackerSir/Flask/Form/",
+      "id": "https://d0683497.github.io/HackerSir/Flask/Form/",
+      "summary": "逢甲大學 黑客社 第五屆 Flask - Form 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2019-04-17T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -111,10 +162,27 @@
       "title": "Flask 社課 - Models",
       "url": "https://d0683497.github.io/HackerSir/Flask/Models/",
       "id": "https://d0683497.github.io/HackerSir/Flask/Models/",
-      "summary": "逢甲大學 黑客社 第六屆 Flask - Models 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Flask - Models 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2019-05-01T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Flask 社課 - 基礎",
+      "url": "https://d0683497.github.io/HackerSir/Flask/Overview/",
+      "id": "https://d0683497.github.io/HackerSir/Flask/Overview/",
+      "summary": "逢甲大學 黑客社 第五屆 Flask - 基礎 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2019-03-26T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -131,7 +199,7 @@
       "content_html": "<h1 id=\"flask-社課\"> Flask 社課</h1>\n<p><img src=\"https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white\" alt=\"HTML\" />\n<img src=\"https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white\" alt=\"CSS\" />\n<img src=\"https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white\" alt=\"JavaScript\" />\n<img src=\"https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white\" alt=\"Python\" />\n<img src=\"https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white\" alt=\"Flask\" />\n<img src=\"https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white\" alt=\"Bootstrap\" /></p>\n<h2 id=\"課程\"> 課程</h2>\n<ul>\n<li><a href=\"/HackerSir/Flask/Introduction.html\">介紹</a></li>\n<li><a href=\"/HackerSir/Flask/Overview.html\">基礎</a></li>\n<li><a href=\"/HackerSir/Flask/Bootstrap.html\">Bootstrap</a></li>\n<li><a href=\"/HackerSir/Flask/Form.html\">Form</a></li>\n<li><a href=\"/HackerSir/Flask/Models.html\">Models</a></li>\n<li><a href=\"/HackerSir/Flask/Conclusion.html\">總結</a></li>\n<li><a href=\"/HackerSir/Flask/Deployment.html\">佈署</a></li>\n</ul>\n<h2 id=\"開源專案\"> 開源專案</h2>\n<p><a href=\"https://github.com/D0683497/flask-hackersir\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true\" alt=\"flask-hackersir\" /></a></p>\n",
       "image": "https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white",
       "date_published": "2021-11-20T19:35:29.000Z",
-      "date_modified": "2021-11-20T20:27:42.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -140,13 +208,13 @@
       "tags": []
     },
     {
-      "title": "Flask 社課 - 介紹",
-      "url": "https://d0683497.github.io/HackerSir/Flask/Introduction/",
-      "id": "https://d0683497.github.io/HackerSir/Flask/Introduction/",
-      "summary": "逢甲大學 黑客社 第六屆 Flask - 介紹 教學簡報",
+      "title": "社員大會 - Pyhton 社課報告",
+      "url": "https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/",
+      "id": "https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/",
+      "summary": "逢甲大學 黑客社 第五屆 社員大會 Pyhton 社課報告",
       "content_html": "<i>Not supported content</i>",
-      "date_published": "2019-03-18T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_published": "2018-11-14T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -157,13 +225,13 @@
       ]
     },
     {
-      "title": "社員大會 - Pyhton 社課報告",
-      "url": "https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/",
-      "id": "https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/",
-      "summary": "逢甲大學 黑客社 第六屆 社員大會 Pyhton 社課報告",
+      "title": "Linux 基本指令",
+      "url": "https://d0683497.github.io/HackerSir/Linux-Command/",
+      "id": "https://d0683497.github.io/HackerSir/Linux-Command/",
+      "summary": "逢甲大學 黑客社 第四屆 Linux 基本指令 教學簡報",
       "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-11-14T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_published": "2018-06-01T00:00:00.000Z",
+      "date_modified": "2021-11-21T14:43:36.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -177,10 +245,10 @@
       "title": "Python 社課 - 總結",
       "url": "https://d0683497.github.io/HackerSir/Python/Conclusion/",
       "id": "https://d0683497.github.io/HackerSir/Python/Conclusion/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 總結 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 總結 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-11-13T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -194,10 +262,10 @@
       "title": "Python 社課 - 環境建置",
       "url": "https://d0683497.github.io/HackerSir/Python/Environment/Legacy/",
       "id": "https://d0683497.github.io/HackerSir/Python/Environment/Legacy/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 環境建置 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 環境建置 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-10-16T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -211,10 +279,10 @@
       "title": "Python 社課 - 環境建置 - Mac 版",
       "url": "https://d0683497.github.io/HackerSir/Python/Environment/Mac/",
       "id": "https://d0683497.github.io/HackerSir/Python/Environment/Mac/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 環境建置 - Mac 版 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 環境建置 - Mac 版 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-10-16T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -228,27 +296,10 @@
       "title": "Python 社課 - 環境建置 - Windows 版",
       "url": "https://d0683497.github.io/HackerSir/Python/Environment/Windows/",
       "id": "https://d0683497.github.io/HackerSir/Python/Environment/Windows/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 環境建置 - Windows 版 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 環境建置 - Windows 版 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-10-16T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
-      "title": "Python 社課 - 簡介",
-      "url": "https://d0683497.github.io/HackerSir/Python/Introduction/",
-      "id": "https://d0683497.github.io/HackerSir/Python/Introduction/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 簡介 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-09-25T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -265,7 +316,7 @@
       "content_html": "<h1 id=\"python-社課\"> Python 社課</h1>\n<p><img src=\"https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white\" alt=\"HTML\" />\n<img src=\"https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white\" alt=\"CSS\" />\n<img src=\"https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white\" alt=\"Python\" /></p>\n<h2 id=\"新生茶會\"> 新生茶會</h2>\n<p><a href=\"/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.html\">用漏洞掌控未來</a></p>\n<h2 id=\"課程\"> 課程</h2>\n<ul>\n<li><a href=\"/HackerSir/Python/Introduction.html\">簡介</a></li>\n<li>環境建置\n<ul>\n<li><a href=\"/HackerSir/Python/Environment/Legacy.html\">舊版</a></li>\n<li><a href=\"/HackerSir/Python/Environment/Windows.html\">Windows 版</a></li>\n<li><a href=\"/HackerSir/Python/Environment/Mac.html\">Mac 版</a></li>\n</ul>\n</li>\n<li>Python 教學\n<ul>\n<li><a href=\"/HackerSir/Python/Tutorial/Overview.html\">基礎</a></li>\n<li><a href=\"/HackerSir/Python/Tutorial/Example.html\">範例</a></li>\n<li><a href=\"/HackerSir/Python/Tutorial/Review.html\">複習</a></li>\n</ul>\n</li>\n<li>Visual Studio Code 安裝\n<ul>\n<li><a href=\"/HackerSir/Python/Visual-Studio-Code-Install/Windows.html\">Windows 版</a></li>\n<li><a href=\"/HackerSir/Python/Visual-Studio-Code-Install/Mac.html\">Mac 版</a></li>\n</ul>\n</li>\n<li>網頁簡介\n<ul>\n<li><a href=\"/HackerSir/Python/Web-Tutorial/HTML.html\">HTML</a></li>\n<li><a href=\"/HackerSir/Python/Web-Tutorial/CSS.html\">CSS</a></li>\n</ul>\n</li>\n<li>爬蟲\n<ul>\n<li><a href=\"/HackerSir/Python/Web-Crawler/First.html\">一</a></li>\n<li><a href=\"/HackerSir/Python/Web-Crawler/Second.html\">二</a></li>\n<li><a href=\"/HackerSir/Python/Web-Crawler/Third.html\">三</a></li>\n<li><a href=\"/HackerSir/Python/Web-Crawler/Fourth.html\">四</a></li>\n</ul>\n</li>\n<li>正則表達式\n<ul>\n<li><a href=\"/HackerSir/Python/Regular-Expression/Legacy.html\">舊版</a></li>\n<li><a href=\"/HackerSir/Python/Regular-Expression/Current.html\">新版</a></li>\n</ul>\n</li>\n<li><a href=\"/HackerSir/Python/Conclusion.html\">總結</a></li>\n</ul>\n<h2 id=\"社員大會\"> 社員大會</h2>\n<p><a href=\"/HackerSir/General-Meeting-of-Club-Members/Report.html\">社課報告</a></p>\n",
       "image": "https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white",
       "date_published": "2021-11-20T19:35:29.000Z",
-      "date_modified": "2021-11-20T20:27:42.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -274,13 +325,13 @@
       "tags": []
     },
     {
-      "title": "Python 社課 - 範例",
-      "url": "https://d0683497.github.io/HackerSir/Python/Tutorial/Example/",
-      "id": "https://d0683497.github.io/HackerSir/Python/Tutorial/Example/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 範例 教學簡報",
+      "title": "Python 社課 - 簡介",
+      "url": "https://d0683497.github.io/HackerSir/Python/Introduction/",
+      "id": "https://d0683497.github.io/HackerSir/Python/Introduction/",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 簡介 教學簡報",
       "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-10-10T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_published": "2018-09-25T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -294,10 +345,10 @@
       "title": "Python 社課 - Regular Expression",
       "url": "https://d0683497.github.io/HackerSir/Python/Regular-Expression/Current/",
       "id": "https://d0683497.github.io/HackerSir/Python/Regular-Expression/Current/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - Regular Expression 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - Regular Expression 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-12-05T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -311,44 +362,10 @@
       "title": "Python 社課 - Regular Expression - 舊版",
       "url": "https://d0683497.github.io/HackerSir/Python/Regular-Expression/Legacy/",
       "id": "https://d0683497.github.io/HackerSir/Python/Regular-Expression/Legacy/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - Regular Expression - 舊版 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - Regular Expression - 舊版 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-12-05T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
-      "title": "Python 社課 - 基礎",
-      "url": "https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/",
-      "id": "https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 基礎 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-10-17T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
-      "title": "Python 社課 - 複習",
-      "url": "https://d0683497.github.io/HackerSir/Python/Tutorial/Review/",
-      "id": "https://d0683497.github.io/HackerSir/Python/Tutorial/Review/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 複習 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-10-17T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -362,10 +379,61 @@
       "title": "Python 社課 - Visual Studio Code 安裝 - Mac版",
       "url": "https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Mac/",
       "id": "https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Mac/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - Visual Studio Code 安裝 - Mac版 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - Visual Studio Code 安裝 - Mac版 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-10-17T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Python 社課 - 範例",
+      "url": "https://d0683497.github.io/HackerSir/Python/Tutorial/Example/",
+      "id": "https://d0683497.github.io/HackerSir/Python/Tutorial/Example/",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 範例 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2018-10-10T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Python 社課 - 基礎",
+      "url": "https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/",
+      "id": "https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 基礎 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2018-10-17T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Python 社課 - 複習",
+      "url": "https://d0683497.github.io/HackerSir/Python/Tutorial/Review/",
+      "id": "https://d0683497.github.io/HackerSir/Python/Tutorial/Review/",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 複習 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2018-10-17T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -379,10 +447,10 @@
       "title": "Python 社課 - Visual Studio Code 安裝 - Windows版",
       "url": "https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Windows/",
       "id": "https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Windows/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - Visual Studio Code 安裝 - Windows版 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - Visual Studio Code 安裝 - Windows版 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-10-17T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -396,10 +464,10 @@
       "title": "Python 社課 - 爬蟲一",
       "url": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/First/",
       "id": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/First/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 爬蟲一 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 爬蟲一 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-11-27T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -413,44 +481,10 @@
       "title": "Python 社課 - 爬蟲二",
       "url": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/Second/",
       "id": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/Second/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 爬蟲二 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 爬蟲二 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-12-03T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
-      "title": "Python 社課 - CSS",
-      "url": "https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/",
-      "id": "https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - CSS 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-11-13T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
-      "title": "Python 社課 - 爬蟲三",
-      "url": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/",
-      "id": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 爬蟲三 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-12-03T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -464,10 +498,93 @@
       "title": "Python 社課 - 爬蟲四",
       "url": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/Fourth/",
       "id": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/Fourth/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - 爬蟲四 教學簡報",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 爬蟲四 教學簡報",
       "content_html": "<i>Not supported content</i>",
       "date_published": "2018-12-03T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Python 社課 - 爬蟲三",
+      "url": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/",
+      "id": "https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/",
+      "summary": "逢甲大學 黑客社 第五屆 Python - 爬蟲三 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2018-12-03T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Python 社課 - CSS",
+      "url": "https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/",
+      "id": "https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/",
+      "summary": "逢甲大學 黑客社 第五屆 Python - CSS 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2018-11-13T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "Python 社課 - HTML",
+      "url": "https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/",
+      "id": "https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/",
+      "summary": "逢甲大學 黑客社 第五屆 Python - HTML 教學簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2018-10-30T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": [
+        "HackerSir"
+      ]
+    },
+    {
+      "title": "黑客社",
+      "url": "https://d0683497.github.io/HackerSir/",
+      "id": "https://d0683497.github.io/HackerSir/",
+      "content_html": "<h1 id=\"黑客社\"> 黑客社</h1>\n<p><img src=\"https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white\" alt=\"HTML\" />\n<img src=\"https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white\" alt=\"CSS\" />\n<img src=\"https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white\" alt=\"JavaScript\" />\n<img src=\"https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white\" alt=\"Python\" />\n<img src=\"https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white\" alt=\"Flask\" />\n<img src=\"https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white\" alt=\"Django\" />\n<img src=\"https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white\" alt=\"Bootstrap\" /></p>\n<h2 id=\"第四屆\"> 第四屆</h2>\n<ul>\n<li><a href=\"/HackerSir/Python/Regular-Expression/Legacy.html\">正則表達式</a></li>\n<li><a href=\"/HackerSir/CTF/2017.html\">CTF - 2017</a></li>\n<li><a href=\"/HackerSir/Linux-Command.html\">Linux 基本指令</a></li>\n</ul>\n<h2 id=\"第五屆\"> 第五屆</h2>\n<h3 id=\"社課\"> 社課</h3>\n<ul>\n<li><a href=\"/HackerSir/Python\">Python</a></li>\n<li><a href=\"/HackerSir/Flask\">Flask</a></li>\n</ul>\n<h3 id=\"其他\"> 其他</h3>\n<p><a href=\"/HackerSir/CTF/2018.html\">CTF - 2018</a></p>\n<h3 id=\"新生茶會\"> 新生茶會</h3>\n<p><a href=\"/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.html\">用漏洞掌控未來</a></p>\n<h3 id=\"社員大會\"> 社員大會</h3>\n<p><a href=\"/HackerSir/General-Meeting-of-Club-Members/Report.html\">社課報告</a></p>\n<h3 id=\"幹部訓練\"> 幹部訓練</h3>\n<p><a href=\"/HackerSir/Club-Cadres-Training/Self-Examination.html\">自我審視</a></p>\n<h2 id=\"第六屆\"> 第六屆</h2>\n<h2 id=\"開源專案\"> 開源專案</h2>\n<p><a href=\"https://github.com/D0683497/JoinClub\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=JoinClub&theme=github_dark&show_owner=true\" alt=\"JoinClub\" /></a></p>\n<p><a href=\"https://github.com/D0683497/NID_to_Detail\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=NID_to_Detail&theme=github_dark&show_owner=true\" alt=\"NID_to_Detail\" /></a></p>\n<p><a href=\"https://github.com/D0683497/flask-hackersir\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true\" alt=\"flask-hackersir\" /></a></p>\n",
+      "image": "https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white",
+      "date_published": "2021-11-20T19:35:29.000Z",
+      "date_modified": "2021-11-21T14:47:05.000Z",
+      "authors": [
+        {
+          "name": "D0683497"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "新生茶會 - 用漏洞掌控未來",
+      "url": "https://d0683497.github.io/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug/",
+      "id": "https://d0683497.github.io/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug/",
+      "summary": "逢甲大學 黑客社 第五屆 新生茶會 用漏洞掌控未來 簡報",
+      "content_html": "<i>Not supported content</i>",
+      "date_published": "2018-09-19T00:00:00.000Z",
+      "date_modified": "2021-11-21T09:23:27.000Z",
       "authors": [
         {
           "name": "D0683497"
@@ -491,55 +608,6 @@
         }
       ],
       "tags": []
-    },
-    {
-      "title": "黑客社",
-      "url": "https://d0683497.github.io/HackerSir/",
-      "id": "https://d0683497.github.io/HackerSir/",
-      "content_html": "<h1 id=\"黑客社-第六屆\"> 黑客社 第六屆</h1>\n<p><img src=\"https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white\" alt=\"HTML\" />\n<img src=\"https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white\" alt=\"CSS\" />\n<img src=\"https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white\" alt=\"JavaScript\" />\n<img src=\"https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white\" alt=\"Python\" />\n<img src=\"https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white\" alt=\"Flask\" />\n<img src=\"https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white\" alt=\"Django\" />\n<img src=\"https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white\" alt=\"Bootstrap\" /></p>\n<h2 id=\"社課\"> 社課</h2>\n<ul>\n<li><a href=\"/HackerSir/Python\">Python</a></li>\n<li><a href=\"/HackerSir/Flask\">Flask</a></li>\n</ul>\n<h2 id=\"開源專案\"> 開源專案</h2>\n<p><a href=\"https://github.com/D0683497/JoinClub\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=JoinClub&theme=github_dark&show_owner=true\" alt=\"JoinClub\" /></a></p>\n<p><a href=\"https://github.com/D0683497/NID_to_Detail\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=NID_to_Detail&theme=github_dark&show_owner=true\" alt=\"NID_to_Detail\" /></a></p>\n<p><a href=\"https://github.com/D0683497/flask-hackersir\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true\" alt=\"flask-hackersir\" /></a></p>\n<h2 id=\"其他\"> 其他</h2>\n<h3 id=\"新生茶會\"> 新生茶會</h3>\n<p><a href=\"/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.html\">用漏洞掌控未來</a></p>\n<h3 id=\"社員大會\"> 社員大會</h3>\n<p><a href=\"/HackerSir/General-Meeting-of-Club-Members/Report.html\">社課報告</a></p>\n",
-      "image": "https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white",
-      "date_published": "2021-11-20T19:35:29.000Z",
-      "date_modified": "2021-11-20T20:27:42.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "新生茶會 - 用漏洞掌控未來",
-      "url": "https://d0683497.github.io/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug/",
-      "id": "https://d0683497.github.io/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug/",
-      "summary": "逢甲大學 黑客社 第六屆 新生茶會 用漏洞掌控未來 簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-09-19T00:00:00.000Z",
-      "date_modified": "2021-11-20T20:27:42.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
-    },
-    {
-      "title": "Python 社課 - HTML",
-      "url": "https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/",
-      "id": "https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/",
-      "summary": "逢甲大學 黑客社 第六屆 Python - HTML 教學簡報",
-      "content_html": "<i>Not supported content</i>",
-      "date_published": "2018-10-30T00:00:00.000Z",
-      "date_modified": "2021-11-20T19:35:29.000Z",
-      "authors": [
-        {
-          "name": "D0683497"
-        }
-      ],
-      "tags": [
-        "HackerSir"
-      ]
     }
   ]
 }
