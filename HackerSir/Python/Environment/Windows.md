@@ -22,7 +22,7 @@ backToTop: false
 
 首先 先去官網下載 Python 3.6.6 (64位元版本)
 
-![](1.png)
+![](1.webp)
 
 選取 Windows x86-64 executable installer
 
@@ -38,7 +38,7 @@ backToTop: false
 
 **記得一定要勾起 Add Python 3.6 to PATH !!!**
 
-![](2.png)
+![](2.webp)
 
 --
 
@@ -48,7 +48,7 @@ backToTop: false
 
 如果有出現 Disable path length limit
 
-![](3.png)
+![](3.webp)
 
 點選 Disable path length limit 點選 2 次 "是" 後即可按下 close 關閉安裝 安裝完成
 
@@ -78,7 +78,7 @@ backToTop: false
 
 電腦就找不到該去哪裡執行了
 
-![](4.png)
+![](4.webp)
 
 --
 
@@ -92,19 +92,19 @@ backToTop: false
 
 在開始列搜尋 "Python" 找到 並右鍵
 
-<img src="5.png" width="32%" height="">
+<img src="5.webp" width="32%" height="">
 
 --
 
 開起檔案位置
 
-<img src="6.png" width="32%" height="">
+<img src="6.webp" width="32%" height="">
 
 --
 
 進入到程式目錄 找到 Python3.6(64-bit) 右鍵 "內容"
 
-<img src="7.png" width="80%" height="">
+<img src="7.webp" width="80%" height="">
 
 --
 
@@ -112,43 +112,43 @@ backToTop: false
 
 複製 "開始位置" 
 
-<img src="8.png" width="37%" height="">
+<img src="8.webp" width="37%" height="">
 
 --
 
 到桌面 按下你的 Win 鍵
 
-<img src="9.png" width="53%" height="">
+<img src="9.webp" width="53%" height="">
 
 --
 
 輸入 "環境變數"
 
-<img src="10.png" width="33%" height="">
+<img src="10.webp" width="33%" height="">
 
 --
 
 點選 "進階"
 
-<img src="11.png" width="52%" height="">
+<img src="11.webp" width="52%" height="">
 
 --
 
 點選 "環境變數"
 
-<img src="12.png" width="52%" height="">
+<img src="12.webp" width="52%" height="">
 
 --
 
 選擇 "Path" 然後按 "編輯"
 
-<img src="13.png" width="60%" height="">
+<img src="13.webp" width="60%" height="">
 
 --
 
 點選 "新增"
 
-<img src="14.png" width="60%" height="">
+<img src="14.webp" width="60%" height="">
 
 --
 
@@ -156,7 +156,7 @@ backToTop: false
 
 **路徑大家不一定相同**
 
-<img src="15.png" width="53%" height="">
+<img src="15.webp" width="53%" height="">
 
 --
 
@@ -178,7 +178,7 @@ backToTop: false
 
 確認添加兩個變數路徑後 按 "確定" 離開
 
-<img src="16.png" width="60%" height="">
+<img src="16.webp" width="60%" height="">
 
 ---
 
@@ -208,13 +208,13 @@ pip 是一個以 Python 寫成的軟體包管理系統
 
 打開 cmd (命令提示視窗)
 
-![](17.png)
+![](17.webp)
 
 --
 
 然後輸入 `pip -V`
 
-<img src="18.jpg" width="65%" height="">
+<img src="18.webp" width="65%" height="">
 
 這邊大家的版本**可能**會不太一樣
 
@@ -287,7 +287,7 @@ IDE (Pycharm, Spider) 以及 Editor(Sublime text, Atom, VScode, 記事本) 之�
 
 打開 cmd (命令提示視窗)
 
-![](19.png)
+![](19.webp)
 
 --
 
@@ -295,7 +295,7 @@ IDE (Pycharm, Spider) 以及 Editor(Sublime text, Atom, VScode, 記事本) 之�
 
 以系統管理員身份執行 打開 cmd
 
-<img src="20.png" width="33%" height="">
+<img src="20.webp" width="33%" height="">
 
 --
 
@@ -319,7 +319,7 @@ pip install jupyter notebook
 
 中間會跑一堆長這樣的東西
 
-![](21.png)
+![](21.webp)
 
 直到最後出現 Successfully......
 
@@ -351,7 +351,7 @@ jupyter notebook
 
 然後就會在 cmd 看到這個畫面
 
-![](22.png)
+![](22.webp)
 
 --
 
@@ -359,7 +359,7 @@ jupyter notebook
 
 | chrome 版本 | ie 版本 |
 | :---: | :---: |
-| <img src="23.png" width="83%" height=""> | ![](24.png) |
+| <img src="23.webp" width="83%" height=""> | ![](24.webp) |
 
 --
 
@@ -367,7 +367,7 @@ jupyter notebook
 
 回到 cmd 找到
 
-<img src="25.png" width="78%" height="">
+<img src="25.webp" width="78%" height="">
 
 複製下方的網址貼到瀏覽器
 
@@ -381,7 +381,7 @@ jupyter notebook
 
 把檔案建在你要的地方(舉例：Desktop 桌面)
 
-![](26.png)
+![](26.webp)
 
 點進去~~~
 
@@ -389,13 +389,13 @@ jupyter notebook
 
 點選 New 選擇 Python 3
 
-![](27.png)
+![](27.webp)
 
 --
 
 操作介面介紹
 
-![](28.png)
+![](28.webp)
 
 --
 
@@ -413,7 +413,7 @@ print("Hello World !!!")
 
 或是按 `ctrl` + `enter`
 
-![](29.png)
+![](29.webp)
 
 --
 
@@ -429,7 +429,7 @@ P.S. 還沒繳社費的 可以繳一下 謝謝!!!
 
 --
 
-![](30.png)
+![](30.webp)
 
 ---
 
@@ -465,7 +465,7 @@ VS Code 全名 Visual Studio Code
 
 --
 
-![](31.png)
+![](31.webp)
 
 <a href="https://code.visualstudio.com/docs/?dv=win" target="_blank" data-preview-link="false">想下載的可以下載</a>
 
@@ -475,7 +475,7 @@ VS Code 全名 Visual Studio Code
 
 --
 
-![](32.png)
+![](32.webp)
 
 這是一個對新手很友善的 coding 環境
 
@@ -505,7 +505,7 @@ VS Code 全名 Visual Studio Code
 
 裝好你會得到
 
-![](33.png)
+![](33.webp)
 
 開啟 jupyter notebook 只要點下去就好
 

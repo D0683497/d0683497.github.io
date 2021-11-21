@@ -57,7 +57,7 @@ print(page)
 
 ---
 
-<img src="1.png" width="60%" height="">
+<img src="1.webp" width="60%" height="">
 
 ---
 

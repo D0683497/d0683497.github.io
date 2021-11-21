@@ -24,11 +24,11 @@ backToTop: false
 
 --
 
-![](1.png)
+![](1.webp)
 
 --
 
-![](2.png)
+![](2.webp)
 
 --
 
@@ -42,11 +42,11 @@ backToTop: false
 
 --
 
-![](3.png)
+![](3.webp)
 
 --
 
-![](4.png)
+![](4.webp)
 
 --
 
@@ -90,7 +90,7 @@ print("".join(map(lambda s: " "  if s == "" else s, arr)))
 
 這裡用 Python2 的 code
 
-![](5.png)
+![](5.webp)
 
 ---
 
@@ -98,11 +98,11 @@ print("".join(map(lambda s: " "  if s == "" else s, arr)))
 
 --
 
-![](6.png)
+![](6.webp)
 
 --
 
-![](7.png)
+![](7.webp)
 
 --
 
@@ -110,7 +110,7 @@ print("".join(map(lambda s: " "  if s == "" else s, arr)))
 
 --
 
-![](8.png)
+![](8.webp)
 
 --
 
@@ -118,7 +118,7 @@ print("".join(map(lambda s: " "  if s == "" else s, arr)))
 
 --
 
-![](9.png)
+![](9.webp)
 
 --
 
@@ -132,7 +132,7 @@ print("".join(map(lambda s: " "  if s == "" else s, arr)))
 
 --
 
-![](10.png)
+![](10.webp)
 
 --
 
@@ -224,7 +224,7 @@ end
 
 這裡用 Python3 的 code
 
-![](11.png)
+![](11.webp)
 
 ---
 
@@ -232,11 +232,11 @@ end
 
 --
 
-![](12.png)
+![](12.webp)
 
 --
 
-![](13.png)
+![](13.webp)
 
 --
 
@@ -271,7 +271,7 @@ http://104.199.235.135:31333/?%F0%9F%8D%A3=%22.`ls`.%22
 
 我們拿到 當前目錄
 
-<img src="14.png" width="70%" height="">
+<img src="14.webp" width="70%" height="">
 
 結果發現太長不能 cat
 
@@ -291,7 +291,7 @@ http://104.199.235.135:31333/?%F0%9F%8D%A3=%22.`ls`.%22
 
 --
 
-![](15.png)
+![](15.webp)
 
 ---
 
@@ -299,11 +299,11 @@ http://104.199.235.135:31333/?%F0%9F%8D%A3=%22.`ls`.%22
 
 --
 
-![](16.png)
+![](16.webp)
 
 --
 
-![](17.png)
+![](17.webp)
 
 --
 
@@ -317,7 +317,7 @@ http://104.199.235.135:31333/?%F0%9F%8D%A3=%22.`ls`.%22
 
 --
 
-![](18.png)
+![](18.webp)
 
 --
 
@@ -325,7 +325,7 @@ http://104.199.235.135:31333/?%F0%9F%8D%A3=%22.`ls`.%22
 
 --
 
-![](19.png)
+![](19.webp)
 
 --
 
@@ -341,7 +341,7 @@ http://104.199.235.135:31333/?%F0%9F%8D%A3=%22.`ls`.%22
 
 果然我們拿到首頁原始碼
 
-![](20.png)
+![](20.webp)
 
 --
 
@@ -361,7 +361,7 @@ echo "asdf" | curl -F "file=ARGV" -F "file=@-" "http://104.199.235.135:31334/cgi
 
 --
 
-<img src="21.png" width="70%" height="">
+<img src="21.webp" width="70%" height="">
 
 我們看到一個 readflag 的程式 執行看看吧
 
@@ -375,7 +375,7 @@ echo "asdf" | curl -F "file=ARGV" -F "file=@-" "http://104.199.235.135:31334/cgi
 
 --
 
-![](22.png)
+![](22.webp)
 
 ---
 
@@ -387,7 +387,7 @@ echo "asdf" | curl -F "file=ARGV" -F "file=@-" "http://104.199.235.135:31334/cgi
 
 --
 
-![](23.png)
+![](23.webp)
 
 --
 
@@ -403,7 +403,7 @@ echo "asdf" | curl -F "file=ARGV" -F "file=@-" "http://104.199.235.135:31334/cgi
 
 --
 
-![](24.png)
+![](24.webp)
 
 ---
 
@@ -411,7 +411,7 @@ echo "asdf" | curl -F "file=ARGV" -F "file=@-" "http://104.199.235.135:31334/cgi
 
 --
 
-<img src="25.png" width="60%" height="">
+<img src="25.webp" width="60%" height="">
 
 ---
 
@@ -419,7 +419,7 @@ echo "asdf" | curl -F "file=ARGV" -F "file=@-" "http://104.199.235.135:31334/cgi
 
 --
 
-<img src="26.png" width="60%" height="">
+<img src="26.webp" width="60%" height="">
 
 --
 
@@ -433,11 +433,11 @@ echo "asdf" | curl -F "file=ARGV" -F "file=@-" "http://104.199.235.135:31334/cgi
 
 --
 
-<img src="27.png" width="60%" height="">
+<img src="27.webp" width="60%" height="">
 
 --
 
-![](28.png)
+![](28.webp)
 
 ---
 
@@ -449,7 +449,7 @@ echo "asdf" | curl -F "file=ARGV" -F "file=@-" "http://104.199.235.135:31334/cgi
 
 --
 
-<img src="29.png" width="60%" height="">
+<img src="29.webp" width="60%" height="">
 
 --
 
@@ -680,7 +680,7 @@ python -c 'print("a"*40 + "\x96\x07\x40\x00\x00\x00\x00\x00")' | nc 104.199.235.
 
 --
 
-![](30.png)
+![](30.webp)
 
 ---
 
@@ -688,7 +688,7 @@ python -c 'print("a"*40 + "\x96\x07\x40\x00\x00\x00\x00\x00")' | nc 104.199.235.
 
 --
 
-<img src="31.png" width="60%" height="">
+<img src="31.webp" width="60%" height="">
 
 --
 
@@ -1271,7 +1271,7 @@ Code:4196310
 
 --
 
-![](32.png)
+![](32.webp)
 
 --
 
@@ -1291,7 +1291,7 @@ Code:4196310
 
 --
 
-![](33.png)
+![](33.webp)
 
 ---
 
@@ -1299,11 +1299,11 @@ Code:4196310
 
 --
 
-<img src="34.png" width="60%" height="">
+<img src="34.webp" width="60%" height="">
 
 --
 
-![](35.png)
+![](35.webp)
 
 ---
 
@@ -1311,7 +1311,7 @@ Code:4196310
 
 --
 
-<img src="36.png" width="60%" height="">
+<img src="36.webp" width="60%" height="">
 
 ---
 
@@ -1323,7 +1323,7 @@ Code:4196310
 
 --
 
-![](37.png)
+![](37.webp)
 
 --
 
@@ -1331,7 +1331,7 @@ Code:4196310
 
 --
 
-![](38.png)
+![](38.webp)
 
 ---
 
@@ -1339,7 +1339,7 @@ Code:4196310
 
 --
 
-<img src="39.png" width="60%" height="">
+<img src="39.webp" width="60%" height="">
 
 --
 
@@ -1349,7 +1349,7 @@ Code:4196310
 
 --
 
-![](40.jpg)
+![](40.webp)
 
 --
 
@@ -1359,7 +1359,7 @@ Code:4196310
 
 --
 
-![](41.png)
+![](41.webp)
 
 --
 
@@ -1369,7 +1369,7 @@ Code:4196310
 
 --
 
-![](42.png)
+![](42.webp)
 
 --
 
@@ -1401,7 +1401,7 @@ Code:4196310
 
 --
 
-![](43.png)
+![](43.webp)
 
 --
 
@@ -1421,7 +1421,7 @@ Code:4196310
 
 --
 
-<img src="44.png" width="60%" height="">
+<img src="44.webp" width="60%" height="">
 
 --
 
@@ -1458,7 +1458,7 @@ Confirm your passphrase:
 
 --
 
-![](45.png)
+![](45.webp)
 
 --
 
@@ -1468,7 +1468,7 @@ Confirm your passphrase:
 
 --
 
-![](46.png)
+![](46.webp)
 
 ---
 
@@ -1476,7 +1476,7 @@ Confirm your passphrase:
 
 --
 
-<img src="47.png" width="60%" height="">
+<img src="47.webp" width="60%" height="">
 
 ---
 
@@ -1488,7 +1488,7 @@ Confirm your passphrase:
 
 --
 
-![](48.png)
+![](48.webp)
 
 --
 
@@ -1496,7 +1496,7 @@ nc 進去後
 
 --
 
-![](49.png)
+![](49.webp)
 
 --
 
@@ -1608,7 +1608,7 @@ r.interactive()
 
 用 Python 2
 
-![](50.png)
+![](50.webp)
 
 ---
 
@@ -1616,7 +1616,7 @@ r.interactive()
 
 --
 
-![](51.png)
+![](51.webp)
 
 --
 
@@ -1644,7 +1644,7 @@ end
 
 --
 
-<img src="52.png" width="60%" height="">
+<img src="52.webp" width="60%" height="">
 
 ---
 
@@ -1652,6 +1652,6 @@ end
 
 --
 
-<img src="53.png" width="60%" height="">
+<img src="53.webp" width="60%" height="">
 
 @slideend

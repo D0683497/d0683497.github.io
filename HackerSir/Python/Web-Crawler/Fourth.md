@@ -28,7 +28,7 @@ backToTop: false
 
 ---
 
-![](1.png)
+![](1.webp)
 
 ---
 
@@ -48,7 +48,7 @@ backToTop: false
 
 ---
 
-![](2.png)
+![](2.webp)
 
 ---
 
@@ -205,7 +205,7 @@ https://myfcu.fcu.edu.tw/main/S9901/S990107_login_guide.aspx?myfcu=true
 
 ---
 
-![](3.png)
+![](3.webp)
 
 ---
 

@@ -22,13 +22,13 @@ backToTop: false
 
 ---
 
-![](1.png)
+![](1.webp)
 
 ---
 
 打開後你會看到
 
-<img src="2.png" width="70%" height="">
+<img src="2.webp" width="70%" height="">
 
 ---
 
@@ -44,7 +44,7 @@ backToTop: false
 
 ---
 
-<img src="3.png" width="80%" height="">
+<img src="3.webp" width="80%" height="">
 
 ---
 
@@ -54,7 +54,7 @@ backToTop: false
 
 ---
 
-<img src="4.png " width="80%" height="">
+<img src="4.webp" width="80%" height="">
 
 ---
 
@@ -68,12 +68,12 @@ backToTop: false
 
 ---
 
-<img src="5.png" width="80%" height="">
+<img src="5.webp" width="80%" height="">
 
 ---
 
 然後你就可以開始打程式了
 
-<img src="6.png" width="70%" height="">
+<img src="6.webp" width="70%" height="">
 
 @slideend

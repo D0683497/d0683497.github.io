@@ -22,7 +22,7 @@ backToTop: false
 
 首先 先去官網下載 Python 3.6.6 (64 位元版本)
 
-![](1.png)
+![](1.webp)
 
 選取 macOS 64-bit installer
 
@@ -38,53 +38,53 @@ backToTop: false
 
 打開 載好的 "python-3.6.6-macosx10.9.pkg"
 
-<img src="2.png" width="80%" height="">
+<img src="2.webp" width="80%" height="">
 
 --
 
 點選 "繼續"
 
-<img src="3.png" width="80%" height="">
+<img src="3.webp" width="80%" height="">
 
 --
 
 點選 "繼續"
 
-<img src="4.png" width="80%" height="">
+<img src="4.webp" width="80%" height="">
 
 --
 
 點選 "同意"
 
-<img src="5.png" width="80%" height="">
+<img src="5.webp" width="80%" height="">
 
 --
 
 點選 "安裝"
 
-<img src="6.png" width="80%" height="">
+<img src="6.webp" width="80%" height="">
 
 --
 
 有 touchbar 的話 可以透過指紋
 
-<img src="7.png" width="80%" height="">
+<img src="7.webp" width="80%" height="">
 
 --
 
 或 輸入密碼安裝
 
-<img src="8.png" width="80%" height="">
+<img src="8.webp" width="80%" height="">
 
 --
 
 等待程序完成
 
-<img src="9.png" width="80%" height="">
+<img src="9.webp" width="80%" height="">
 
 --
 
-<img src="10.png" width="80%" height="">
+<img src="10.webp" width="80%" height="">
 
 安裝完整後 "關閉"
 
@@ -108,13 +108,13 @@ backToTop: false
 
 打開 terminal (終端機)
 
-![](11.jpg)
+![](11.webp)
 
 --
 
 然後輸入 `pip3 -V`
 
-![](12.jpg)
+![](12.webp)
 
 --
 
@@ -179,13 +179,13 @@ Jupyer Notebook（以前稱為 IPython notebook）
 
 打開 terminal (終端機)
 
-<img src="13.jpg" width="80%" height="">
+<img src="13.webp" width="80%" height="">
 
 --
 
 terminal 打開長這樣
 
-<img src="14.jpg" width="80%" height="">
+<img src="14.webp" width="80%" height="">
 
 --
 
@@ -195,7 +195,7 @@ terminal 打開長這樣
 pip3 install --upgrade pip
 ```
 
-<img src="15.jpg" width="80%" height="">
+<img src="15.webp" width="80%" height="">
 
 --
 
@@ -205,13 +205,13 @@ pip3 install --upgrade pip
 pip install jupyter notebook
 ```
 
-<img src="16.jpg" width="80%" height="">
+<img src="16.webp" width="80%" height="">
 
 --
 
 中間會跑一堆長這樣的東西
 
-<img src="17.jpg" width="80%" height="">
+<img src="17.webp" width="80%" height="">
 
 直到最後停止出現 Successfully......
 
@@ -237,25 +237,25 @@ pip install jupyter notebook
 jupyter notebook
 ```
 
-<img src="18.jpg" width="80%" height="">
+<img src="18.webp" width="80%" height="">
 
 --
 
 然後就會在 terminal 看到這個畫面
 
-<img src="19.jpg" width="80%" height="">
+<img src="19.webp" width="80%" height="">
 
 --
 
 同時你的預設瀏覽器會打開到這個畫面
 
-![](20.png)
+![](20.webp)
 
 --
 
 如果沒有出現 回到 terminal 找到
 
-<img src="21.jpg" width="80%" height="">
+<img src="21.webp" width="80%" height="">
 
 複製下方的網址貼到瀏覽器
 
@@ -269,7 +269,7 @@ jupyter notebook
 
 把檔案建在你要的地方(舉例：Desktop 桌面)
 
-![](22.png)
+![](22.webp)
 
 點進去~~~
 
@@ -277,13 +277,13 @@ jupyter notebook
 
 點選 New 選擇 Python 3
 
-![](23.png)
+![](23.webp)
 
 --
 
 操作介面介紹
 
-![](24.png)
+![](24.webp)
 
 --
 
@@ -301,7 +301,7 @@ print("Hello World !!!")
 
 或是按 `ctrl` + `enter`
 
-![](25.png)
+![](25.webp)
 
 --
 
@@ -317,7 +317,7 @@ P.S. 還沒繳社費的 可以繳一下 謝謝!!!
 
 --
 
-![](26.png)
+![](26.webp)
 
 ---
 
@@ -353,7 +353,7 @@ VS Code 全名 Visual Studio Code
 
 --
 
-![](27.png)
+![](27.webp)
 
 <a href="https://code.visualstudio.com/" target="_blank" data-preview-link="false">想下載的可以下載</a>
 
@@ -363,7 +363,7 @@ VS Code 全名 Visual Studio Code
 
 --
 
-![](28.png)
+![](28.webp)
 
 這是一個對新手很友善的 coding 環境
 

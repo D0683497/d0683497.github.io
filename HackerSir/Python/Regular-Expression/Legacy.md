@@ -365,7 +365,7 @@ print (m)
 
 範例:
 
-![](1.png)
+![](1.webp)
 
 --
 
@@ -398,7 +398,7 @@ email 格式:
 
 範例:
 
-![](2.png)
+![](2.webp)
 
 --
 
@@ -514,13 +514,13 @@ else:
 
 ## 練習第八題
 
-黑客社CTF
+黑客社 CTF
 
 <a href="https://ctf.hackersir.org" target="_blank" data-preview-link="false">https://ctf.hackersir.org</a>
 
 --
 
-![](3.png)
+![](3.webp)
 
 ---
 

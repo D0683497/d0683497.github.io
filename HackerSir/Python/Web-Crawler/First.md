@@ -16,7 +16,7 @@ backToTop: false
 
 ---
 
-![](1.png)
+![](1.webp)
 
 <!--
 ```mermaid

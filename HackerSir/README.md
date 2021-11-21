@@ -3,7 +3,7 @@ title: 黑客社
 home: true
 heroText: 逢甲大學 黑客社
 tagline: 第四屆、第五屆、第六屆、開源專案
-heroImage: /HackerSir/logo.png
+heroImage: /HackerSir/logo.webp
 action:
     - text: Facebook
       link: https://www.facebook.com/HackerSir.tw

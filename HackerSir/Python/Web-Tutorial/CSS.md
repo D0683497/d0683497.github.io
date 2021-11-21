@@ -38,7 +38,7 @@ backToTop: false
 
 ## CSS Syntax
 
-![](1.png)
+![](1.webp)
 
 ---
 
@@ -251,7 +251,7 @@ CSS 的註解用 `/*` 跟 `*/` 包起來
 
 ## CSS Box Model
 
-![](2.png)
+![](2.webp)
 
 ---
 

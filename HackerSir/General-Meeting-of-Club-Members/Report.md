@@ -20,7 +20,7 @@ backToTop: false
 
 --
 
-<!-- .slide: data-background="1.png" data-background-size="1200px" -->
+<!-- .slide: data-background="1.webp" data-background-size="1200px" -->
 
 --
 
@@ -130,13 +130,13 @@ backToTop: false
 
 #### 9/25 的回饋問卷答題情況
 
-![](2.png)
+![](2.webp)
 
 --
 
 #### 10/2 的回饋問卷答題情況
 
-![](3.png)
+![](3.webp)
 
 --
 

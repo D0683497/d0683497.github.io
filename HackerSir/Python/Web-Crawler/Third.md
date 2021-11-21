@@ -36,7 +36,7 @@ backToTop: false
 
 先把開發者工具 (F12) 切到 Network
 
-![](1.png)
+![](1.webp)
 
 ---
 
@@ -48,7 +48,7 @@ backToTop: false
 
 ---
 
-<img src="2.png" width="60%" height="">
+<img src="2.webp" width="60%" height="">
 
 ---
 
@@ -60,7 +60,7 @@ backToTop: false
 
 ---
 
-<img src="3.png" width="60%" height="">
+<img src="3.webp" width="60%" height="">
 
 ---
 
@@ -153,7 +153,7 @@ print(page.text)
 
 ---
 
-![](4.png)
+![](4.webp)
 
 ---
 
