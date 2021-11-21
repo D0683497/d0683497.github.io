@@ -42,7 +42,8 @@ action:
 
 ### 其他
 
-[CTF - 2018](/HackerSir/CTF/2018.md)
++ [CTF - 2018](/HackerSir/CTF/2018.md)
++ [2018-AIS3-PreExa](/HackerSir/CTF/2018-AIS3-PreExa.md)
 
 ### 新生茶會
 
