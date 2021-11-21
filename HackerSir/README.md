@@ -40,15 +40,15 @@ action:
 
 [CTF - 2018](/HackerSir/CTF/2018.md)
 
-#### 新生茶會
+### 新生茶會
 
 [用漏洞掌控未來](/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.md)
 
-#### 社員大會
+### 社員大會
 
 [社課報告](/HackerSir/General-Meeting-of-Club-Members/Report.md)
 
-#### 幹部訓練
+### 幹部訓練
 
 [自我審視](/HackerSir/Club-Cadres-Training/Self-Examination.md)
 
