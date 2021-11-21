@@ -11,6 +11,10 @@ heroImage: /HackerSir/logo.png
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
 
+:::info
+如需將簡報輸出成 pdf 請在簡報網址後添加 `?print-pdf` 在列印
+:::
+
 ## 新生茶會
 
 [用漏洞掌控未來](/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.md)
