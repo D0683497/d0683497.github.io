@@ -27,6 +27,7 @@ action:
 
 + [正則表達式](/HackerSir/Python/Regular-Expression/Legacy.md)
 + [CTF - 2017](/HackerSir/CTF/2017.md)
++ [Linux 基本指令](/HackerSir/Linux-Command.md)
 
 ## 第五屆
 
