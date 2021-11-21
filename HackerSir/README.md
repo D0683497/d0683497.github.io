@@ -45,3 +45,7 @@ action:
 ### 社員大會
 
 [社課報告](/HackerSir/General-Meeting-of-Club-Members/Report.md)
+
+### 幹部訓練
+
+[自我審視](/HackerSir/Club-Cadres-Training/Self-Examination.md)
