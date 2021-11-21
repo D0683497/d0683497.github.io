@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: Python 社課 - Visual Studio Code 安裝 - Mac版
-description: 逢甲大學 黑客社 第六屆 Python - Visual Studio Code 安裝 - Mac版 教學簡報
+description: 逢甲大學 黑客社 第五屆 Python - Visual Studio Code 安裝 - Mac版 教學簡報
 original: true
 time: 2018-10-17
 category: HackerSir

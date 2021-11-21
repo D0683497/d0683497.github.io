@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: 新生茶會 - 用漏洞掌控未來
-description: 逢甲大學 黑客社 第六屆 新生茶會 用漏洞掌控未來 簡報
+description: 逢甲大學 黑客社 第五屆 新生茶會 用漏洞掌控未來 簡報
 original: true
 time: 2018-09-19
 category: HackerSir

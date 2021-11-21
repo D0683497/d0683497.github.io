@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: 社員大會 - Pyhton 社課報告
-description: 逢甲大學 黑客社 第六屆 社員大會 Pyhton 社課報告
+description: 逢甲大學 黑客社 第五屆 社員大會 Pyhton 社課報告
 original: true
 time: 2018-11-14
 category: HackerSir

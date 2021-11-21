@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: Flask 社課 - Models
-description: 逢甲大學 黑客社 第六屆 Flask - Models 教學簡報
+description: 逢甲大學 黑客社 第五屆 Flask - Models 教學簡報
 original: true
 time: 2019-05-01
 category: HackerSir

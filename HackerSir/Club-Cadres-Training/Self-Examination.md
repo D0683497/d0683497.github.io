@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: 幹部訓練 - 自我審視
-description: 逢甲大學 黑客社 第六屆 幹部訓練 - 自我審視 簡報
+description: 逢甲大學 黑客社 第五屆 幹部訓練 - 自我審視 簡報
 original: true
 time: 2019-01-20
 category: HackerSir

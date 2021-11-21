@@ -2,7 +2,7 @@
 title: 黑客社
 home: true
 heroText: 逢甲大學 黑客社
-tagline: 第六屆社課、開源專案
+tagline: 第四屆、第五屆、第六屆、開源專案
 heroImage: /HackerSir/logo.png
 action:
     - text: Facebook
@@ -13,7 +13,7 @@ action:
       type: default
 ---
 
-# 黑客社 第六屆
+# 黑客社
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
@@ -23,10 +23,32 @@ action:
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 
-## 社課
+## 第四屆
+
++ [正則表達式](/HackerSir/Python/Regular-Expression/Legacy.md)
+
+## 第五屆
+
+### 社課
 
 + [Python](/HackerSir/Python)
 + [Flask](/HackerSir/Flask)
+
+### 其他
+
+#### 新生茶會
+
+[用漏洞掌控未來](/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.md)
+
+#### 社員大會
+
+[社課報告](/HackerSir/General-Meeting-of-Club-Members/Report.md)
+
+#### 幹部訓練
+
+[自我審視](/HackerSir/Club-Cadres-Training/Self-Examination.md)
+
+## 第六屆
 
 ## 開源專案
 
@@ -35,17 +57,3 @@ action:
 [![NID_to_Detail](https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=NID_to_Detail&theme=github_dark&show_owner=true)](https://github.com/D0683497/NID_to_Detail)
 
 [![flask-hackersir](https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true)](https://github.com/D0683497/flask-hackersir)
-
-## 其他
-
-### 新生茶會
-
-[用漏洞掌控未來](/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.md)
-
-### 社員大會
-
-[社課報告](/HackerSir/General-Meeting-of-Club-Members/Report.md)
-
-### 幹部訓練
-
-[自我審視](/HackerSir/Club-Cadres-Training/Self-Examination.md)

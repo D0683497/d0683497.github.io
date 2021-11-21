@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: Python 社課 - HTML
-description: 逢甲大學 黑客社 第六屆 Python - HTML 教學簡報
+description: 逢甲大學 黑客社 第五屆 Python - HTML 教學簡報
 original: true
 time: 2018-10-30
 category: HackerSir

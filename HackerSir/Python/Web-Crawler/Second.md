@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: Python 社課 - 爬蟲二
-description: 逢甲大學 黑客社 第六屆 Python - 爬蟲二 教學簡報
+description: 逢甲大學 黑客社 第五屆 Python - 爬蟲二 教學簡報
 original: true
 time: 2018-12-03
 category: HackerSir

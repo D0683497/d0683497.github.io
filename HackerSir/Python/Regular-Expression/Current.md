@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: Python 社課 - Regular Expression
-description: 逢甲大學 黑客社 第六屆 Python - Regular Expression 教學簡報
+description: 逢甲大學 黑客社 第五屆 Python - Regular Expression 教學簡報
 original: true
 time: 2018-12-05
 category: HackerSir

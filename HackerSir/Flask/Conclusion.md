@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: Flask 社課 - 總結
-description: 逢甲大學 黑客社 第六屆 Flask - 總結 教學簡報
+description: 逢甲大學 黑客社 第五屆 Flask - 總結 教學簡報
 original: true
 time: 2019-05-09
 category: HackerSir

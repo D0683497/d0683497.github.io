@@ -1,7 +1,7 @@
 ---
 layout: Slide
 title: Flask 社課 - Form
-description: 逢甲大學 黑客社 第六屆 Flask - Form 教學簡報
+description: 逢甲大學 黑客社 第五屆 Flask - Form 教學簡報
 original: true
 time: 2019-04-17
 category: HackerSir
