@@ -59,6 +59,8 @@ action:
 
 ## 第六屆
 
+[會議規範](/HackerSir/Parliamentary-Procedure.md)
+
 ## 開源專案
 
 [![JoinClub](https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=JoinClub&theme=github_dark&show_owner=true)](https://github.com/D0683497/JoinClub)
