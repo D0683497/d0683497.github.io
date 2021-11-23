@@ -14,7 +14,7 @@ heroImage: /HackerSir/logo.webp
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 
-:::info
+:::info 提示
 如需將簡報輸出成 pdf 請在簡報網址後添加 `?print-pdf` 在列印
 :::
 

@@ -23,17 +23,21 @@ action:
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 
-:::info
+:::info 提示
 如需將簡報輸出成 pdf 請在簡報網址後添加 `?print-pdf` 在列印
 :::
 
-## 第四屆
+## 第四屆[^fourth]
+
+![職稱](https://img.shields.io/badge/職稱-社員-informational)
 
 + [正則表達式](/HackerSir/Python/Regular-Expression/Legacy.md)
 + [CTF - 2017](/HackerSir/CTF/2017.md)
 + [Linux 基本指令](/HackerSir/Linux-Command.md)
 
-## 第五屆
+## 第五屆[^fifth]
+
+![職稱](https://img.shields.io/badge/職稱-學術-informational)
 
 ### 社課
 
@@ -57,7 +61,9 @@ action:
 
 [自我審視](/HackerSir/Club-Cadres-Training/Self-Examination.md)
 
-## 第六屆
+## 第六屆[^sixth]
+
+![職稱](https://img.shields.io/badge/職稱-副社長-informational)
 
 [會議規範](/HackerSir/Parliamentary-Procedure.md)
 
@@ -68,3 +74,7 @@ action:
 [![NID_to_Detail](https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=NID_to_Detail&theme=github_dark&show_owner=true)](https://github.com/D0683497/NID_to_Detail)
 
 [![flask-hackersir](https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true)](https://github.com/D0683497/flask-hackersir)
+
+[^fourth]: 時間: 2017/08/01 ~ 2018/07/31
+[^fifth]: 時間: 2018/08/01 ~ 2019/07/31
+[^sixth]: 時間: 2019/08/01 ~ 2020/07/31
