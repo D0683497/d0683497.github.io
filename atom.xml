@@ -6,7 +6,7 @@
   <author>
     <name>D0683497</name>
   </author>
-  <updated>2021-11-23T06:24:01.969Z</updated>
+  <updated>2021-11-24T09:20:07.867Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://d0683497.github.io/atom.xml"/>
   <link rel="alternate" href="https://d0683497.github.io/"/>
@@ -30,40 +30,6 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">CTF - 2017</title>
-    <id>https://d0683497.github.io/HackerSir/CTF/2017/</id>
-    <link href="https://d0683497.github.io/HackerSir/CTF/2017/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第四屆 CTF - 2017 簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2019-05-20T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
-    <title type="html">2018-AIS3-PreExa</title>
-    <id>https://d0683497.github.io/HackerSir/CTF/2018-AIS3-PreExa/</id>
-    <link href="https://d0683497.github.io/HackerSir/CTF/2018-AIS3-PreExa/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[AIS3-PreExa-2018 Write-up]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2018-07-24T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
     <title type="html">CTF - 2018</title>
     <id>https://d0683497.github.io/HackerSir/CTF/2018/</id>
     <link href="https://d0683497.github.io/HackerSir/CTF/2018/"/>
@@ -81,11 +47,11 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">Flask 社課 - Bootstrap</title>
-    <id>https://d0683497.github.io/HackerSir/Flask/Bootstrap/</id>
-    <link href="https://d0683497.github.io/HackerSir/Flask/Bootstrap/"/>
+    <title type="html">CTF - 2017</title>
+    <id>https://d0683497.github.io/HackerSir/CTF/2017/</id>
+    <link href="https://d0683497.github.io/HackerSir/CTF/2017/"/>
     <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - Bootstrap 教學簡報]]></summary>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第四屆 CTF - 2017 簡報]]></summary>
     <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
     <author>
       <name>D0683497</name>
@@ -94,24 +60,7 @@
     <contributor>
       <name>D0683497</name>
     </contributor>
-    <published>2019-03-26T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
-    <title type="html">Flask 社課 - 佈署</title>
-    <id>https://d0683497.github.io/HackerSir/Flask/Deployment/</id>
-    <link href="https://d0683497.github.io/HackerSir/Flask/Deployment/"/>
-    <updated>2021-11-21T09:23:27.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - 佈署 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2019-05-09T00:00:00.000Z</published>
+    <published>2019-05-20T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
@@ -132,40 +81,6 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">Flask 社課 - Form</title>
-    <id>https://d0683497.github.io/HackerSir/Flask/Form/</id>
-    <link href="https://d0683497.github.io/HackerSir/Flask/Form/"/>
-    <updated>2021-11-21T09:23:27.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - Form 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2019-04-17T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
-    <title type="html">Flask 社課 - 介紹</title>
-    <id>https://d0683497.github.io/HackerSir/Flask/Introduction/</id>
-    <link href="https://d0683497.github.io/HackerSir/Flask/Introduction/"/>
-    <updated>2021-11-21T09:23:27.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - 介紹 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2019-03-18T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
     <title type="html">Flask 社課 - 總結</title>
     <id>https://d0683497.github.io/HackerSir/Flask/Conclusion/</id>
     <link href="https://d0683497.github.io/HackerSir/Flask/Conclusion/"/>
@@ -183,11 +98,11 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">Flask 社課 - Models</title>
-    <id>https://d0683497.github.io/HackerSir/Flask/Models/</id>
-    <link href="https://d0683497.github.io/HackerSir/Flask/Models/"/>
-    <updated>2021-11-21T09:23:27.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - Models 教學簡報]]></summary>
+    <title type="html">2018-AIS3-PreExa</title>
+    <id>https://d0683497.github.io/HackerSir/CTF/2018-AIS3-PreExa/</id>
+    <link href="https://d0683497.github.io/HackerSir/CTF/2018-AIS3-PreExa/"/>
+    <updated>2021-11-21T20:38:01.000Z</updated>
+    <summary type="html"><![CDATA[AIS3-PreExa-2018 Write-up]]></summary>
     <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
     <author>
       <name>D0683497</name>
@@ -196,7 +111,58 @@
     <contributor>
       <name>D0683497</name>
     </contributor>
-    <published>2019-05-01T00:00:00.000Z</published>
+    <published>2018-07-24T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
+    <title type="html">Flask 社課 - Bootstrap</title>
+    <id>https://d0683497.github.io/HackerSir/Flask/Bootstrap/</id>
+    <link href="https://d0683497.github.io/HackerSir/Flask/Bootstrap/"/>
+    <updated>2021-11-21T20:38:01.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - Bootstrap 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2019-03-26T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
+    <title type="html">Flask 社課 - Form</title>
+    <id>https://d0683497.github.io/HackerSir/Flask/Form/</id>
+    <link href="https://d0683497.github.io/HackerSir/Flask/Form/"/>
+    <updated>2021-11-21T09:23:27.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - Form 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2019-04-17T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
+    <title type="html">Flask 社課 - 佈署</title>
+    <id>https://d0683497.github.io/HackerSir/Flask/Deployment/</id>
+    <link href="https://d0683497.github.io/HackerSir/Flask/Deployment/"/>
+    <updated>2021-11-21T09:23:27.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - 佈署 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2019-05-09T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
@@ -217,10 +183,27 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
+    <title type="html">Flask 社課 - 介紹</title>
+    <id>https://d0683497.github.io/HackerSir/Flask/Introduction/</id>
+    <link href="https://d0683497.github.io/HackerSir/Flask/Introduction/"/>
+    <updated>2021-11-21T09:23:27.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - 介紹 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2019-03-18T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
     <title type="html">Home</title>
     <id>https://d0683497.github.io/HackerSir/Flask/</id>
     <link href="https://d0683497.github.io/HackerSir/Flask/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
+    <updated>2021-11-23T11:45:59.000Z</updated>
     <content type="html"><![CDATA[<h1 id="flask-社課"> Flask 社課</h1>
 <p><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
@@ -228,7 +211,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /></p>
-<div><p>Info</p>
+<div><p>提示</p>
 <p>如需將簡報輸出成 pdf 請在簡報網址後添加 <code>?print-pdf</code> 在列印</p>
 </div>
 <h2 id="課程"> 課程</h2>
@@ -254,11 +237,11 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">社員大會 - Pyhton 社課報告</title>
-    <id>https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/</id>
-    <link href="https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 社員大會 Pyhton 社課報告]]></summary>
+    <title type="html">Flask 社課 - Models</title>
+    <id>https://d0683497.github.io/HackerSir/Flask/Models/</id>
+    <link href="https://d0683497.github.io/HackerSir/Flask/Models/"/>
+    <updated>2021-11-21T09:23:27.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Flask - Models 教學簡報]]></summary>
     <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
     <author>
       <name>D0683497</name>
@@ -267,7 +250,24 @@
     <contributor>
       <name>D0683497</name>
     </contributor>
-    <published>2018-11-14T00:00:00.000Z</published>
+    <published>2019-05-01T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
+    <title type="html">Linux 基本指令</title>
+    <id>https://d0683497.github.io/HackerSir/Linux-Command/</id>
+    <link href="https://d0683497.github.io/HackerSir/Linux-Command/"/>
+    <updated>2021-11-21T20:38:01.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第四屆 Linux 基本指令 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2018-06-01T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
@@ -397,11 +397,11 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">Linux 基本指令</title>
-    <id>https://d0683497.github.io/HackerSir/Linux-Command/</id>
-    <link href="https://d0683497.github.io/HackerSir/Linux-Command/"/>
+    <title type="html">社員大會 - Pyhton 社課報告</title>
+    <id>https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/</id>
+    <link href="https://d0683497.github.io/HackerSir/General-Meeting-of-Club-Members/Report/"/>
     <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第四屆 Linux 基本指令 教學簡報]]></summary>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 社員大會 Pyhton 社課報告]]></summary>
     <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
     <author>
       <name>D0683497</name>
@@ -410,7 +410,7 @@
     <contributor>
       <name>D0683497</name>
     </contributor>
-    <published>2018-06-01T00:00:00.000Z</published>
+    <published>2018-11-14T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
@@ -428,6 +428,23 @@
       <name>D0683497</name>
     </contributor>
     <published>2018-10-16T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
+    <title type="html">Python 社課 - 總結</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Conclusion/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Conclusion/"/>
+    <updated>2021-11-21T20:38:01.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 總結 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2018-11-13T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
@@ -465,23 +482,6 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">Python 社課 - 總結</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Conclusion/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Conclusion/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 總結 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2018-11-13T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
     <title type="html">Python 社課 - 簡介</title>
     <id>https://d0683497.github.io/HackerSir/Python/Introduction/</id>
     <link href="https://d0683497.github.io/HackerSir/Python/Introduction/"/>
@@ -499,15 +499,32 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
+    <title type="html">Python 社課 - Regular Expression</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Regular-Expression/Current/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Regular-Expression/Current/"/>
+    <updated>2021-11-21T20:38:01.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - Regular Expression 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2018-12-05T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
     <title type="html">Home</title>
     <id>https://d0683497.github.io/HackerSir/Python/</id>
     <link href="https://d0683497.github.io/HackerSir/Python/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
+    <updated>2021-11-23T11:45:59.000Z</updated>
     <content type="html"><![CDATA[<h1 id="python-社課"> Python 社課</h1>
 <p><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" /></p>
-<div><p>Info</p>
+<div><p>提示</p>
 <p>如需將簡報輸出成 pdf 請在簡報網址後添加 <code>?print-pdf</code> 在列印</p>
 </div>
 <h2 id="新生茶會"> 新生茶會</h2>
@@ -604,45 +621,11 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">Python 社課 - Regular Expression</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Regular-Expression/Current/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Regular-Expression/Current/"/>
+    <title type="html">Python 社課 - Visual Studio Code 安裝 - Windows版</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Windows/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Windows/"/>
     <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - Regular Expression 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2018-12-05T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
-    <title type="html">Python 社課 - 複習</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Tutorial/Review/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Tutorial/Review/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 複習 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2018-10-17T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
-    <title type="html">Python 社課 - 基礎</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/"/>
-    <updated>2021-11-21T09:23:27.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 基礎 教學簡報]]></summary>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - Visual Studio Code 安裝 - Windows版 教學簡報]]></summary>
     <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
     <author>
       <name>D0683497</name>
@@ -672,6 +655,23 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
+    <title type="html">Python 社課 - 基礎</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Tutorial/Overview/"/>
+    <updated>2021-11-21T09:23:27.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 基礎 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2018-10-17T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
     <title type="html">Python 社課 - 爬蟲一</title>
     <id>https://d0683497.github.io/HackerSir/Python/Web-Crawler/First/</id>
     <link href="https://d0683497.github.io/HackerSir/Python/Web-Crawler/First/"/>
@@ -686,40 +686,6 @@
       <name>D0683497</name>
     </contributor>
     <published>2018-11-27T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
-    <title type="html">Python 社課 - Visual Studio Code 安裝 - Windows版</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Windows/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Visual-Studio-Code-Install/Windows/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - Visual Studio Code 安裝 - Windows版 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2018-10-17T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
-    <title type="html">Python 社課 - 爬蟲四</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Fourth/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Web-Crawler/Fourth/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 爬蟲四 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2018-12-03T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
@@ -740,11 +706,11 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">Python 社課 - 爬蟲三</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/"/>
+    <title type="html">Python 社課 - 爬蟲四</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Fourth/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Web-Crawler/Fourth/"/>
     <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 爬蟲三 教學簡報]]></summary>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 爬蟲四 教學簡報]]></summary>
     <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
     <author>
       <name>D0683497</name>
@@ -757,11 +723,11 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">Python 社課 - HTML</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/"/>
+    <title type="html">Python 社課 - 複習</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Tutorial/Review/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Tutorial/Review/"/>
     <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - HTML 教學簡報]]></summary>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 複習 教學簡報]]></summary>
     <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
     <author>
       <name>D0683497</name>
@@ -770,24 +736,7 @@
     <contributor>
       <name>D0683497</name>
     </contributor>
-    <published>2018-10-30T00:00:00.000Z</published>
-    <rights>Copyright by D0683497</rights>
-  </entry>
-  <entry>
-    <title type="html">Python 社課 - CSS</title>
-    <id>https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/</id>
-    <link href="https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/"/>
-    <updated>2021-11-21T20:38:01.000Z</updated>
-    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - CSS 教學簡報]]></summary>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
-    <author>
-      <name>D0683497</name>
-    </author>
-    <category term="HackerSir"/>
-    <contributor>
-      <name>D0683497</name>
-    </contributor>
-    <published>2018-11-13T00:00:00.000Z</published>
+    <published>2018-10-17T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
@@ -877,58 +826,37 @@
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
-    <title type="html">黑客社</title>
-    <id>https://d0683497.github.io/HackerSir/</id>
-    <link href="https://d0683497.github.io/HackerSir/"/>
-    <updated>2021-11-23T06:00:13.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="黑客社"> 黑客社</h1>
-<p><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /></p>
-<div><p>Info</p>
-<p>如需將簡報輸出成 pdf 請在簡報網址後添加 <code>?print-pdf</code> 在列印</p>
-</div>
-<h2 id="第四屆"> 第四屆</h2>
-<ul>
-<li><a href="/HackerSir/Python/Regular-Expression/Legacy.html">正則表達式</a></li>
-<li><a href="/HackerSir/CTF/2017.html">CTF - 2017</a></li>
-<li><a href="/HackerSir/Linux-Command.html">Linux 基本指令</a></li>
-</ul>
-<h2 id="第五屆"> 第五屆</h2>
-<h3 id="社課"> 社課</h3>
-<ul>
-<li><a href="/HackerSir/Python">Python</a></li>
-<li><a href="/HackerSir/Flask">Flask</a></li>
-</ul>
-<h3 id="其他"> 其他</h3>
-<ul>
-<li><a href="/HackerSir/CTF/2018.html">CTF - 2018</a></li>
-<li><a href="/HackerSir/CTF/2018-AIS3-PreExa.html">2018-AIS3-PreExa</a></li>
-</ul>
-<h3 id="新生茶會"> 新生茶會</h3>
-<p><a href="/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.html">用漏洞掌控未來</a></p>
-<h3 id="社員大會"> 社員大會</h3>
-<p><a href="/HackerSir/General-Meeting-of-Club-Members/Report.html">社課報告</a></p>
-<h3 id="幹部訓練"> 幹部訓練</h3>
-<p><a href="/HackerSir/Club-Cadres-Training/Self-Examination.html">自我審視</a></p>
-<h2 id="第六屆"> 第六屆</h2>
-<p><a href="/HackerSir/Parliamentary-Procedure.html">會議規範</a></p>
-<h2 id="開源專案"> 開源專案</h2>
-<p><a href="https://github.com/D0683497/JoinClub" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=JoinClub&theme=github_dark&show_owner=true" alt="JoinClub" /></a></p>
-<p><a href="https://github.com/D0683497/NID_to_Detail" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=NID_to_Detail&theme=github_dark&show_owner=true" alt="NID_to_Detail" /></a></p>
-<p><a href="https://github.com/D0683497/flask-hackersir" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true" alt="flask-hackersir" /></a></p>
-]]></content>
+    <title type="html">Python 社課 - 爬蟲三</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Web-Crawler/Third/"/>
+    <updated>2021-11-21T20:38:01.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - 爬蟲三 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
     <author>
       <name>D0683497</name>
     </author>
+    <category term="HackerSir"/>
     <contributor>
       <name>D0683497</name>
     </contributor>
-    <published>2021-11-20T19:35:29.000Z</published>
+    <published>2018-12-03T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
+    <title type="html">Python 社課 - CSS</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Web-Tutorial/CSS/"/>
+    <updated>2021-11-21T20:38:01.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - CSS 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2018-11-13T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
   <entry>
@@ -946,6 +874,92 @@
       <name>D0683497</name>
     </contributor>
     <published>2018-09-19T00:00:00.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
+    <title type="html">黑客社</title>
+    <id>https://d0683497.github.io/HackerSir/</id>
+    <link href="https://d0683497.github.io/HackerSir/"/>
+    <updated>2021-11-23T11:45:59.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="黑客社"> 黑客社</h1>
+<p><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /></p>
+<div><p>提示</p>
+<p>如需將簡報輸出成 pdf 請在簡報網址後添加 <code>?print-pdf</code> 在列印</p>
+</div>
+<h2 id="第四屆"> 第四屆<sup></sup></h2>
+<p><img src="https://img.shields.io/badge/職稱-社員-informational" alt="職稱" /></p>
+<ul>
+<li><a href="/HackerSir/Python/Regular-Expression/Legacy.html">正則表達式</a></li>
+<li><a href="/HackerSir/CTF/2017.html">CTF - 2017</a></li>
+<li><a href="/HackerSir/Linux-Command.html">Linux 基本指令</a></li>
+</ul>
+<h2 id="第五屆"> 第五屆<sup></sup></h2>
+<p><img src="https://img.shields.io/badge/職稱-學術-informational" alt="職稱" /></p>
+<h3 id="社課"> 社課</h3>
+<ul>
+<li><a href="/HackerSir/Python">Python</a></li>
+<li><a href="/HackerSir/Flask">Flask</a></li>
+</ul>
+<h3 id="其他"> 其他</h3>
+<ul>
+<li><a href="/HackerSir/CTF/2018.html">CTF - 2018</a></li>
+<li><a href="/HackerSir/CTF/2018-AIS3-PreExa.html">2018-AIS3-PreExa</a></li>
+</ul>
+<h3 id="新生茶會"> 新生茶會</h3>
+<p><a href="/HackerSir/Welcoming-Party-of-Club-Newcomers/Control-the-Future-with-Bug.html">用漏洞掌控未來</a></p>
+<h3 id="社員大會"> 社員大會</h3>
+<p><a href="/HackerSir/General-Meeting-of-Club-Members/Report.html">社課報告</a></p>
+<h3 id="幹部訓練"> 幹部訓練</h3>
+<p><a href="/HackerSir/Club-Cadres-Training/Self-Examination.html">自我審視</a></p>
+<h2 id="第六屆"> 第六屆<sup></sup></h2>
+<p><img src="https://img.shields.io/badge/職稱-副社長-informational" alt="職稱" /></p>
+<p><a href="/HackerSir/Parliamentary-Procedure.html">會議規範</a></p>
+<h2 id="開源專案"> 開源專案</h2>
+<p><a href="https://github.com/D0683497/JoinClub" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=JoinClub&theme=github_dark&show_owner=true" alt="JoinClub" /></a></p>
+<p><a href="https://github.com/D0683497/NID_to_Detail" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=NID_to_Detail&theme=github_dark&show_owner=true" alt="NID_to_Detail" /></a></p>
+<p><a href="https://github.com/D0683497/flask-hackersir" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D0683497&repo=flask-hackersir&theme=github_dark&show_owner=true" alt="flask-hackersir" /></a></p>
+<hr>
+<section>
+<ol>
+<li id="footnote1"><p>時間: 2017/08/01 ~ 2018/07/31 </p>
+</li>
+<li id="footnote2"><p>時間: 2018/08/01 ~ 2019/07/31 </p>
+</li>
+<li id="footnote3"><p>時間: 2019/08/01 ~ 2020/07/31 </p>
+</li>
+</ol>
+</section>
+]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2021-11-20T19:35:29.000Z</published>
+    <rights>Copyright by D0683497</rights>
+  </entry>
+  <entry>
+    <title type="html">Python 社課 - HTML</title>
+    <id>https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/</id>
+    <link href="https://d0683497.github.io/HackerSir/Python/Web-Tutorial/HTML/"/>
+    <updated>2021-11-21T20:38:01.000Z</updated>
+    <summary type="html"><![CDATA[逢甲大學 黑客社 第五屆 Python - HTML 教學簡報]]></summary>
+    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <author>
+      <name>D0683497</name>
+    </author>
+    <category term="HackerSir"/>
+    <contributor>
+      <name>D0683497</name>
+    </contributor>
+    <published>2018-10-30T00:00:00.000Z</published>
     <rights>Copyright by D0683497</rights>
   </entry>
 </feed>
